@@ -1,8 +1,8 @@
 # livros de receitas :man_cook:
 
-olá bem vindo ao meu de receitas :wave:
+olá bem vindo as minha  receitas :wave:
 
-- strognof de frango
+- strogonoff de frango
 - 
 
 
